@@ -1,6 +1,6 @@
-from app import app
+from contactapp import contactapp
 
-@app.route('/')
-@app.route('/index')
+@contactapp.route('/')
+@contactapp.route('/index')
 def index():
     return "Hello, World!"
