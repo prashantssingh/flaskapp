@@ -1,1 +1,1 @@
-from contactappapp import apcontactappp
+from contactappapp import app
